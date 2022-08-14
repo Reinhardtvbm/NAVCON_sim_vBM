@@ -1,4 +1,9 @@
-const HALF_BLOCK: f32 = 10 as f32;
+const HALF_BLOCK: f32 = 10.0;
+const R: f32 = 50.0; // half axle lenght in mm
+
+use std::{thread, time};
+
+
 
 use crate::colours::Colours;
 pub struct Navcon {
@@ -6,11 +11,11 @@ pub struct Navcon {
     pub colour_sensor: [Colours; 5],
     pub incidence: u16,
     speed: f32,
-    distance: f32,
+    pub distance: f32,
 
     /* OUTPUTS */
-    velocity_l: i32,
-    velocity_r: i32,
+    velocity_l: f32,
+    velocity_r: f32,
 
     /* CONTROL */
     pub transmission: bool,
@@ -23,131 +28,65 @@ impl Navcon {
             incidence: 0,
             speed: 0 as f32,
             distance: 0 as f32,
-            velocity_l: 0 as i32, 
-            velocity_r: 0 as i32,
+            velocity_l: 0 as f32, 
+            velocity_r: 0 as f32,
             transmission: false,
         }
     }
 
-    pub fn reverse(&mut self, distance: f32) {
-        while self.distance < distance {
-            self.velocity_l = -5;
-            self.velocity_r = -5;
-        }
-    }
-
-    pub fn forward(&mut self, x: i32) {
+    pub fn set_straight(&mut self, x: f32) {
         self.velocity_l = x;
-        self.velocity_r = x;
-
+        self.velocity_r = x; 
         
-    }
-
-    pub fn stop(&mut self) {
-        while self.speed != 0.0 {
-            self.velocity_l = 0;
-            self.velocity_r = 0;
-        }
-    }
-
-    pub fn turn_90_cw(&mut self) {
-        todo!();
-    }
-
-    pub fn turn_90_ccw(&mut self) {
-        todo!();
-    }
-
-    pub fn turn_180(&mut self) {
-        todo!();
-    }
-
-    pub fn turn_360(&mut self) {
-        todo!();
-    }
-
-    pub fn turn_5_cw(&mut self) {
-        todo!()
-    }
-
-    pub fn correction(&mut self) {
-        todo!();
-    }
-
-    pub fn b_n_encountered(&mut self) {
-        let stop = false;
-        
-        if self.incidence < 5 {
-            self.reverse(HALF_BLOCK);
-            self.stop();
-            self.turn_90_cw();
-            self.forward();
+        if x > 0.0 {
+            println!("MARV going forward!");
         }
         else {
-            while !stop {
-                self.reverse(HALF_BLOCK/2.0);
-                self.stop();
-                self.turn_5_cw();
-                
-            }
-            self.forward();
+            println!("MARV reversing!");
         }
+        
     }
 
-    pub fn green_encountered(&mut self) {
-        // while incidence > 45, do 5 degree turns until under
-        while self.incidence > 45 {
-            while !(self.incidence < 45)  {
-                self.stop();
-                self.reverse(HALF_BLOCK/4.0);
-                self.stop();
-                self.turn_5_cw();
-
-                while !self.colour_sensor.contains(&Colours::Green){
-                    self.forward();
-                }
-            }
-        }
-
-        // while incidence > 5, do steering correction
-        while self.incidence > 5 {
-            self.stop();
-            self.reverse(HALF_BLOCK/2.0);
-            self.stop();
-            self.correction();
-
-            while !(self.colour_sensor.contains(&Colours::Green)) {
-                self.forward();
-            }
-        }
-
-        // if incidence good, then go forward :)
-        if self.incidence < 5 {
-            self.forward();
-        }
+    pub fn set_stop(&mut self) {
+        self.velocity_l = 0.0;
+        self.velocity_r = 0.0;
+        println!("MARV stopped!");
     }
 
-    pub fn contains_non_white(&self) -> bool {
-        self.colour_sensor.contains(&Colours::Black) || self.colour_sensor.contains(&Colours::Blue) || self.colour_sensor.contains(&Colours::Green) || self.colour_sensor.contains(&Colours::Red)
+    pub fn start_left_turn(&mut self, angle: f32, x: f32) -> f32 {
+        // set wheel velocities for a left turn
+        self.velocity_r = x;
+        self.velocity_l = -x;
+
+        // return the arc length that must be travelled to achieve the left turn for specified angle
+        R*angle
     }
-}
 
-pub fn transmit_colours(nav: &mut Navcon, colours: [Colours; 5]) {
-    nav.colours_in(colours);
-    nav.transmission = true;
-}
+    pub fn start_right_turn(&mut self, angle: f32, x: f32) -> f32 {
+        // set wheel velocities for a right turn
+        self.velocity_r = -x;
+        self.velocity_l = x;
 
-pub fn transmit_incidence(nav: &mut Navcon, incidence: u16) {
-    nav.incidence_in(incidence);
-    nav.transmission = true;
-}
+        // return the arc length that must be travelled to achieve the left turn for specified angle
+        R*angle
+    }
 
-pub fn transmit_speed(nav: &mut Navcon, speed: f32) {
-    nav.speed_in(speed);
-    nav.transmission = true;
-}
+    // simulated wait for input
+    pub fn wait_for_input(&self) {
+        println!("waiting for input...");
+        thread::sleep(time::Duration::from_millis(500));
+        println!("got input!");
+    }
 
-pub fn transmit_distance(nav: &mut Navcon, distance: f32) {
-    nav.distance_in(distance);
-    nav.transmission = true;
+    pub fn interperet_colours(&self) -> (bool, bool, bool) {
+        if self.colour_sensor.contains(&Colours::Green) || self.colour_sensor.contains(&Colours::Red) {
+            return (true, false, false);
+        }
+        else if self.colour_sensor.contains(&Colours::Green) || self.colour_sensor.contains(&Colours::Red) {
+            return (false, true, false);
+        }
+        else {
+            return (false, false, true);
+        }
+    }
 }

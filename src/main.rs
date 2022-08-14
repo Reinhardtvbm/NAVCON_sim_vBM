@@ -1,53 +1,71 @@
 mod navcon;
 pub mod colours;
 
-
 use navcon::*;
 use colours::Colours;
 
+enum Straight {
+    Forward, Reverse 
+}
+
+impl Straight {
+    fn value(&self) -> f32 {
+        match self {
+            Straight::Forward => 5_f32,
+            Straight::Reverse => -5_f32,
+        }
+    }
+}
+
 fn main() {
+    let (mut green_red, mut blue_black, mut all_white) = (false, false, true);
     let mut navcon_sim = Navcon::new();
+    let mut arc_length = 0_f32;
+    let mut maze_done = false;
 
-    let mock_colours = [
-        [Colours::White; 5],
-        [Colours::White; 5],
-        [Colours::White; 5],
-        [Colours::White; 5],
-        [Colours::White; 5],
-        [Colours::White; 5],
-        [Colours::White; 5],
-        [Colours::Black, Colours::Black, Colours::White, Colours::White, Colours::White]
-    ];
-
-    let mock_incidence: [u16; 8] = [
-        0, 0, 0, 0, 0, 0, 3, 3
-    ];
-
-    let i = 0;
-
-    while !(navcon_sim.contains_non_white()) {
-        navcon_sim.forward();
-        transmit_colours(&mut navcon_sim, mock_colours[i]);
-        transmit_incidence(&mut navcon_sim, mock_incidence[i]);
-    }
-
-    if navcon_sim.colour_sensor.contains(&Colours::Black) ||  navcon_sim.colour_sensor.contains(&Colours::Blue) {
-        while navcon_sim.incidence > 45 {
-
+    while maze_done {
+        while (all_white) {
+            navcon_sim.set_straight(Straight::Forward.value());
+            navcon_sim.wait_for_input();
+        
+            (green_red, blue_black, all_white) = navcon_sim.interperet_colours();
         }
 
-        while navcon_sim.incidence > 5 {
+        while green_red {
+            navcon_sim.set_stop();
+            navcon_sim.set_straight(Straight::Reverse.value());
 
+            if navcon_sim.incidence > 45 {
+                arc_length = navcon_sim.start_left_turn(5.0, 3.0);
+
+                while navcon_sim.distance < arc_length {/* wait */}
+            }
+            else if navcon_sim.incidence > 5 {
+                arc_length = navcon_sim.start_left_turn(navcon_sim.incidence as f32, 3.0);
+
+                while navcon_sim.distance < arc_length {/* wait */}
+            }
+
+            navcon_sim.set_stop();
         }
-    }
 
-    if navcon_sim.colour_sensor.contains(&Colours::Green) || navcon_sim.colour_sensor.contains(&Colours::Red) {
-        while navcon_sim.incidence > 45 {
+        while blue_black {
+            navcon_sim.set_stop();
+            navcon_sim.set_straight(Straight::Reverse.value());
 
-        }
+            if navcon_sim.incidence > 45 {
+                arc_length = navcon_sim.start_left_turn(5.0, 3.0);
 
-        while navcon_sim.incidence > 5 {
+                while navcon_sim.distance < arc_length {/* wait */}
+            }
+            else if navcon_sim.incidence > 5 {
+                let turn = (90 - navcon_sim.incidence) as f32; 
+                arc_length = navcon_sim.start_left_turn(turn, 3.0);
 
+                while navcon_sim.distance < arc_length {/* wait */}
+            }
+
+            navcon_sim.set_stop();
         }
     }
 }
