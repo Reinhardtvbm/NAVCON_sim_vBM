@@ -29,22 +29,6 @@ impl Navcon {
         }
     }
 
-    pub fn colours_in(&mut self, colours: [Colours; 5]) {
-        self.colour_sensor = colours;
-    }
-
-    pub fn incidence_in(&mut self, angle: u16) {
-        self.incidence = angle;
-    }
-
-    pub fn speed_in(&mut self, s: f32) {
-        self.speed = s;
-    }
-
-    pub fn distance_in(&mut self, dis: f32) {
-        self.distance = dis;
-    }
-
     pub fn reverse(&mut self, distance: f32) {
         while self.distance < distance {
             self.velocity_l = -5;
@@ -52,9 +36,11 @@ impl Navcon {
         }
     }
 
-    pub fn forward(&mut self) {
-        self.velocity_l = 5;
-        self.velocity_r = 5;
+    pub fn forward(&mut self, x: i32) {
+        self.velocity_l = x;
+        self.velocity_r = x;
+
+        
     }
 
     pub fn stop(&mut self) {
