@@ -1,71 +1,142 @@
-mod navcon;
-pub mod colours;
-
-use navcon::*;
-use colours::Colours;
-
-enum Straight {
-    Forward, Reverse 
+/*===================ENUMS=======================*/
+enum States {
+    Stop,
+    Forward,
+    Reverse,
+    TurnRight,
+    TurnLeft,
+    MazeDone
 }
 
-impl Straight {
-    fn value(&self) -> f32 {
-        match self {
-            Straight::Forward => 5_f32,
-            Straight::Reverse => -5_f32,
-        }
-    }
+#[derive(Clone, Copy, PartialEq)]
+enum Colours {
+    Red,
+    White,
+    Green,
+    Blue,
+    Black,
 }
+
+struct NavconSim {
+    c: [Colours; 5],    // colour sensor
+    d: f32,             // distance
+    s: f32,             // speed
+    a: i32,              // incidence
+
+    reverse: bool,
+    t_angle: i32
+}
+/*===============================================*/
 
 fn main() {
-    let (mut green_red, mut blue_black, mut all_white) = (false, false, true);
-    let mut navcon_sim = Navcon::new();
-    let mut arc_length = 0_f32;
-    let mut maze_done = false;
+    let mut s = States::Stop;
 
-    while maze_done {
-        while (all_white) {
-            navcon_sim.set_straight(Straight::Forward.value());
-            navcon_sim.wait_for_input();
-        
-            (green_red, blue_black, all_white) = navcon_sim.interperet_colours();
+    let mut navcon_sim = NavconSim {
+        c: [Colours::White; 5],
+        d: 0.0,
+        s: 0.0,
+        a: 0,
+        reverse: false,
+        t_angle: 0
+    };
+
+    let mut i = 0_usize;
+    let mut cont = true;
+
+    while cont {
+        i += 1;
+        match s {
+            States::Stop => stop(&mut navcon_sim, &mut s),
+            States::Forward => forward(&mut navcon_sim, &mut s, &mut cont),
+            States::Reverse => reverse(&mut navcon_sim, &mut s),
+            States::TurnRight => turn_right(&mut navcon_sim, &mut s),
+            States::TurnLeft => turn_left(&mut navcon_sim, &mut s),
+            States::MazeDone => println!("Maze done!"),
         }
+    }   
+}
 
-        while green_red {
-            navcon_sim.set_stop();
-            navcon_sim.set_straight(Straight::Reverse.value());
+fn stop(sim: &mut NavconSim, state: &mut States) {
+    if sim.c == [Colours::White; 5] {
+        *state = States::Forward;
+        return;
+    }
 
-            if navcon_sim.incidence > 45 {
-                arc_length = navcon_sim.start_left_turn(5.0, 3.0);
+    if sim.c.contains(&Colours::Green) && sim.a.abs() < 5 {
+        *state = States::Forward;
+        return;
+    }
 
-                while navcon_sim.distance < arc_length {/* wait */}
-            }
-            else if navcon_sim.incidence > 5 {
-                arc_length = navcon_sim.start_left_turn(navcon_sim.incidence as f32, 3.0);
+    *state = States::Reverse;
+}
 
-                while navcon_sim.distance < arc_length {/* wait */}
-            }
+fn forward(sim: &mut NavconSim, state: &mut States, continue_maze: &mut bool) {
+    if sim.c == [Colours::White; 5] {
+        *state = States::Forward;
+        return;
+    }
 
-            navcon_sim.set_stop();
+    if sim.c.contains(&Colours::Green) {
+        if sim.a.abs() < 5 {
+            *state = States::Forward;
+            return;
         }
-
-        while blue_black {
-            navcon_sim.set_stop();
-            navcon_sim.set_straight(Straight::Reverse.value());
-
-            if navcon_sim.incidence > 45 {
-                arc_length = navcon_sim.start_left_turn(5.0, 3.0);
-
-                while navcon_sim.distance < arc_length {/* wait */}
-            }
-            else if navcon_sim.incidence > 5 {
-                let turn = (90 - navcon_sim.incidence) as f32; 
-                arc_length = navcon_sim.start_left_turn(turn, 3.0);
-
-                while navcon_sim.distance < arc_length {/* wait */}
-            }
-
-            navcon_sim.set_stop();
+        else {
+            *state = States::Reverse;
+            return;
         }
     }
+
+    if sim.c.contains(&Colours::Red) && sim.a.abs() < 5 {
+        *state = States::MazeDone;
+        *continue_maze = false;
+    }
+}
+
+fn reverse(sim: &mut NavconSim, state: &mut States) {
+    if !(sim.reverse) {
+        sim.reverse = true;
+        *state = States::Stop;
+        return;
+    }
+    
+    if sim.c.contains(&Colours::Blue) || sim.c.contains(&Colours::Black) {
+        if sim.a.abs() >= 45 {
+            sim.t_angle = 5;
+            if sim.a > 0 {
+                *state = States::TurnRight;
+                return;
+            }
+            *state = States::TurnLeft;
+            return;
+        }
+        sim.t_angle = 90 - sim.a;
+        *state = States::TurnRight;
+        return;
+    }
+
+    if sim.a.abs() >= 45 {
+        sim.t_angle = 5;
+    }
+    else {
+        sim.t_angle = sim.a;
+    }
+
+    if sim.a.abs() > 0 {
+        *state = States::TurnLeft;
+    }
+    else {
+        *state = States::TurnRight;
+    }
+    
+}
+
+fn turn_right(sim: &mut NavconSim, state: &mut States) {
+    sim.reverse = false;
+    *state = States::Stop;
+}
+
+fn turn_left(sim: &mut NavconSim, state: &mut States) {
+    sim.reverse = false;
+    *state = States::Stop;
 }
