@@ -1,3 +1,5 @@
+mod test_data;
+use test_data::TestData;
 /*===================ENUMS=======================*/
 enum States {
     Stop,
@@ -9,7 +11,7 @@ enum States {
 }
 
 #[derive(Clone, Copy, PartialEq)]
-enum Colours {
+pub enum Colours {
     Red,
     White,
     Green,
@@ -39,11 +41,13 @@ fn main() {
         reverse: false,
         t_angle: 0
     };
+    let mut test_data: Vec<TestData> = Vec::new();
 
     let mut i = 0_usize;
     let mut cont = true;
 
     while cont {
+        
         i += 1;
         match s {
             States::Stop => stop(&mut navcon_sim, &mut s),
@@ -57,6 +61,7 @@ fn main() {
 }
 
 fn stop(sim: &mut NavconSim, state: &mut States) {
+    println!("State: Stop");
     if sim.c == [Colours::White; 5] {
         *state = States::Forward;
         return;
@@ -71,6 +76,7 @@ fn stop(sim: &mut NavconSim, state: &mut States) {
 }
 
 fn forward(sim: &mut NavconSim, state: &mut States, continue_maze: &mut bool) {
+    println!("State: Forward");
     if sim.c == [Colours::White; 5] {
         *state = States::Forward;
         return;
@@ -94,6 +100,7 @@ fn forward(sim: &mut NavconSim, state: &mut States, continue_maze: &mut bool) {
 }
 
 fn reverse(sim: &mut NavconSim, state: &mut States) {
+    println!("State: Reverse");
     if !(sim.reverse) {
         sim.reverse = true;
         *state = States::Stop;
@@ -132,11 +139,19 @@ fn reverse(sim: &mut NavconSim, state: &mut States) {
 }
 
 fn turn_right(sim: &mut NavconSim, state: &mut States) {
+    println!("State: Turn Right");
     sim.reverse = false;
     *state = States::Stop;
+    println!("MARV turning right! | {} degrees", sim.t_angle);
 }
 
 fn turn_left(sim: &mut NavconSim, state: &mut States) {
+    println!("State: Turn Left");
     sim.reverse = false;
     *state = States::Stop;
+    println!("MARV turning left! | {} degrees", sim.t_angle);
+}
+
+fn init_test_data(test_d : &mut Vec<TestData>) {
+    test_d.push(TestData::new([Colours::White; 5], 0, 0.0, 0.0));
 }
