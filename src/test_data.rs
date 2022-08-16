@@ -2,16 +2,16 @@ use crate::Colours;
 
 pub struct TestData {
     // Colour Sensor
-    col_sens: [Colours; 5],
+    pub col_sens: [Colours; 5],
 
     // Angle of Incidence
-    aoc: i32,
+    pub aoc: i32,
 
     // Distance
-    dist: f32,
+    pub dist: f32,
 
     // Speed
-    speed: f32
+    pub speed: f32
 }
 
 impl TestData {
