@@ -72,6 +72,7 @@ fn main() {
     while cont {
         if !ignore_input {
             navcon_sim.print();
+            println!("");
         }
         match s {
             States::Stop => stop(&mut navcon_sim, &mut s),
@@ -88,9 +89,8 @@ fn main() {
             States::MazeDone => println!("Maze done!"),
         }
         
-        println!("----------------------------------------------------------------");
         if !ignore_input {
-            println!("END STATE-------------------------------------------------------");
+            println!("END STATE-------------------------------------------------------\n");
             navcon_sim.a = test_data.get(i).expect("test data done...").aoc;
             navcon_sim.c = test_data.get(i).expect("test data done...").col_sens;
             navcon_sim.d = test_data.get(i).expect("test data done...").dist;
@@ -103,7 +103,7 @@ fn main() {
 
 fn stop(sim: &mut NavconSim, state: &mut States) {
     println!("State: Stop");
-    
+    println!("sending stop command to MDPS...\n");
     if sim.c == [Colours::White; 5] {
         *state = States::Forward;
         return;
@@ -119,6 +119,7 @@ fn stop(sim: &mut NavconSim, state: &mut States) {
 
 fn forward(sim: &mut NavconSim, state: &mut States, continue_maze: &mut bool, ignore_input: &mut bool) {
     println!("State: Forward");
+    println!("MARV zooming straight ahead!\n");
     if sim.c == [Colours::White; 5] {
         *state = States::Forward;
         return;
@@ -131,6 +132,7 @@ fn forward(sim: &mut NavconSim, state: &mut States, continue_maze: &mut bool, ig
         }
         else {
             *state = States::Reverse;
+            println!("State: Stop\nsending stop command to MDPS...\n");
             *ignore_input = true;
             return;
         }
@@ -144,6 +146,7 @@ fn forward(sim: &mut NavconSim, state: &mut States, continue_maze: &mut bool, ig
 
     if sim.c.contains(&Colours::Blue) || sim.c.contains(&Colours::Black) {
         *state = States::Reverse;
+        println!("State: Stop\nsending stop command to MDPS...\n");
         *ignore_input = true;
         return
     }
@@ -152,6 +155,7 @@ fn forward(sim: &mut NavconSim, state: &mut States, continue_maze: &mut bool, ig
 fn reverse(sim: &mut NavconSim, state: &mut States) {
     println!("State: Reverse");
     if !(sim.reverse) {
+        println!("MARV is reversing...\n");
         sim.reverse = true;
         *state = States::Stop;
         return;
@@ -162,13 +166,16 @@ fn reverse(sim: &mut NavconSim, state: &mut States) {
             sim.t_angle = 5;
             if sim.a > 0 {
                 *state = States::TurnRight;
+                println!("MARV stopped and didn't reverse\n");
                 return;
             }
             *state = States::TurnLeft;
+            println!("MARV stopped and didn't reverse\n");
             return;
         }
         sim.t_angle = 90 - sim.a;
         *state = States::TurnRight;
+        println!("MARV stopped and didn't reverse\n");
         return;
     }
 
@@ -188,6 +195,8 @@ fn reverse(sim: &mut NavconSim, state: &mut States) {
             sim.t_angle *= -1;
         }
     }
+
+    println!("MARV stopped and didn't reverse\n");
     
 }
 
@@ -195,14 +204,14 @@ fn turn_right(sim: &mut NavconSim, state: &mut States) {
     println!("State: Turn Right");
     sim.reverse = false;
     *state = States::Stop;
-    println!("MARV turning right! | {} degrees", sim.t_angle);
+    println!("MARV turning right! | {} degrees\n", sim.t_angle);
 }
 
 fn turn_left(sim: &mut NavconSim, state: &mut States) {
     println!("State: Turn Left");
     sim.reverse = false;
     *state = States::Stop;
-    println!("MARV turning left! | {} degrees", sim.t_angle);
+    println!("MARV turning left! | {} degrees\n", sim.t_angle);
 }
 
 fn init_test_data(test_d : &mut Vec<TestData>) {
