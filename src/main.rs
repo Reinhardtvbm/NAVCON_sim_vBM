@@ -278,8 +278,4 @@ fn init_test_data(test_d : &mut Vec<TestData>) {
     test_d.push(TestData::new([Colours::White; 5], 0, 0.0, 0.0));
 
     test_d.push(TestData::new([Colours::Green, Colours::White, Colours::White, Colours::White, Colours::White], -40, 0.0, 0.0));
-    
-
-
-
 }
