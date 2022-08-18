@@ -181,4 +181,3 @@ fn rotate_left(mdps: &mut Mdps, angle: u8) {
 
     mdps.send_stop();
 }
-
