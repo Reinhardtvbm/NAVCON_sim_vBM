@@ -1,0 +1,4680 @@
+Angle of Incidence -90
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -90
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -89
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -88
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -87
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -86
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -85
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -84
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -83
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -82
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -81
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -80
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -79
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -78
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -77
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -76
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -75
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -74
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -73
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -72
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -71
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -70
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -69
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -68
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -67
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -66
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -65
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -64
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -63
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -62
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -61
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -60
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -59
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -58
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -57
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -56
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -55
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -54
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -53
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -52
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -51
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -50
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -49
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -48
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -47
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -46
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -45
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -44
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -43
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -42
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -41
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -40
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -39
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -38
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -37
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -36
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -35
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -34
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -33
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -32
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -31
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -30
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -29
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -28
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -27
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -26
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -25
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -24
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -23
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -22
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -21
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -20
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -19
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -18
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -17
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -16
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -15
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -14
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -13
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -12
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -11
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -10
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -9
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -8
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -7
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -6
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -5
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -4
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -3
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -2
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence -1
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 0
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 1
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 2
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 3
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 4
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 5
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 6
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 7
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 8
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 9
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 10
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 11
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 12
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 13
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 14
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 15
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 16
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 17
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 18
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 19
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 20
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 21
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 22
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 23
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 24
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 25
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 26
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 27
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 28
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 29
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 30
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 31
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 32
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 33
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 34
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 35
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 36
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 37
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 38
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 39
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 40
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 41
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 42
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 43
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 44
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 45
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 46
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 47
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 48
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 49
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 50
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 51
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 52
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 53
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 54
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 55
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 56
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 57
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 58
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 59
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 60
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 61
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 62
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 63
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 64
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 65
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 66
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 67
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 68
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 69
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 70
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 71
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 72
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 73
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 74
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 75
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 76
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 77
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 78
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 79
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 80
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 81
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 82
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 83
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 84
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 85
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 86
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 87
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 88
+Colour Sensor: [Black, Black, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [Red, Red, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [Red, White, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [White, Red, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [White, White, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [White, Green, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [White, Blue, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [White, Black, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [Green, White, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [Green, Green, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [Blue, White, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [Blue, Blue, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [Black, White, White, White, White]
+Angle of Incidence 89
+Colour Sensor: [Black, Black, White, White, White]
