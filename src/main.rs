@@ -37,10 +37,11 @@ impl Mdps {
     fn update(&mut self) {
         self.distance_l = (self.speed_l as f32)*(self.time.elapsed().as_millis() as f32/1000.0);
         self.distance_r = (self.speed_r as f32)*(self.time.elapsed().as_millis() as f32/1000.0);
-        self.time = Instant::now();
+        //self.time = Instant::now();
     }
 
     fn send_stop(&mut self) {
+        println!("distance: {}, {} {} {} ", self.distance_l, self.speed_l, self.speed_r, self.time.elapsed().as_millis() as f32/1000.0);
         self.distance_r = 0.0;
         self.distance_l = 0.0;
         self.speed_r = 0;
@@ -50,8 +51,8 @@ impl Mdps {
     }
 
     fn send_motor_speeds(&mut self, v_l: i8, v_r: i8) {
-        self.speed_l = v_l;
-        self.speed_r = v_r;
+        self.speed_l = v_l*10;
+        self.speed_r = v_r*10;
     }
 }
 
@@ -85,11 +86,11 @@ impl NavconSim {
 fn main() {
     let maze_done = false;
     
-    let mut navcon_sim = NavconSim{ c: [Colours::White; 5], a: 0,b: false };
+    let mut navcon_sim = NavconSim{ c: [Colours::Blue; 5], a: 0,b: false };
 
     let mut mdps = Mdps::new();
 
-    while !maze_done {
+    //while !maze_done {
         //todo!(); // get input data!
         
         navcon_sim.print();
@@ -103,7 +104,7 @@ fn main() {
 
         if !navcon_sim.c.contains(&Colours::Green) {
             reverse(&mut mdps, &mut navcon_sim);
-        }
+        //}
     }
 }
 
@@ -152,12 +153,12 @@ fn reverse(mdps: &mut Mdps, nav_sim: &mut NavconSim) {
 }
 
 fn rotate_right(mdps: &mut Mdps, angle: u8) {
-    println!("MARV rotating right!");
+    println!("MARV rotating right!, {}", angle);
 
     let dist = (angle as f32)*(PI/180.0)*R;
 
-    mdps.send_motor_speeds(10, -10);
     mdps.send_stop();
+    mdps.send_motor_speeds(10, -10);
 
     while mdps.distance_l < dist {
         mdps.update();
@@ -167,12 +168,12 @@ fn rotate_right(mdps: &mut Mdps, angle: u8) {
 }
 
 fn rotate_left(mdps: &mut Mdps, angle: u8) {
-    println!("MARV rotating left!");
+    println!("MARV rotating left!, {}", angle);
 
     let dist = (angle as f32)*(PI/180.0)*R;
 
-    mdps.send_motor_speeds(-10, 10);
     mdps.send_stop();
+    mdps.send_motor_speeds(-10, 10);
 
     while mdps.distance_l < dist {
         mdps.update();
